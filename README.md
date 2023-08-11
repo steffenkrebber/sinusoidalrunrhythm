@@ -1,7 +1,7 @@
 # sinusoidal run rhythm
 
 ## Description
-If one adds up in-phase cosine functions in integer ratios – which are pure intervals in the audible range – these also entail special characteristics in the form of rhythms: they are temporally shifted in their maxima compared to corresponding notated, discrete rhythms, and are thereby something fundamentally different from polyrhythms in the same ratio a:b. In addition, the rhythms have volume weightings between their maxima.
+If one adds up in-phase cosine functions in integer ratios – which are pure intervals in the audible range – these entail special characteristics in the form of rhythms: they are temporally shifted in their maxima compared to corresponding notated, discrete rhythms, and are thereby something fundamentally different from polyrhythms in the same ratio a:b. In addition, the rhythms have volume weightings between their maxima.
 
 The number of these completely reduced ratios of two partial frequencies up to a specified maximum frequency corresponds to the number of Farey fractions which can be calculated by evaluating the Euler phi function. Combinations are counted, which are called „prime ratios“ here. Musically speaking, these are pure intervals whose octave transpositions are not taken into account. With three partial frequencies, the number of prime ratios corresponds to the so-called „coprime triples.“ 
 
